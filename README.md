@@ -25,10 +25,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML5
 - CSS3
-- CSS Grid
-- CSS Flexbox
-- Variáveis CSS
-- Pseudo-classes e Pseudo-elementos
 
 </br>
 </br>
