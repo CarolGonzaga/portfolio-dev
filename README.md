@@ -30,6 +30,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Variáveis CSS
 - Pseudo-classes e Pseudo-elementos
 
+</br>
+</br>
+
 ## 🎯 Objetivo
 
 O objetivo desse desafio é consolidar conhecimentos sobre layout e posicionamento de elementos usando CSS Grid e Flexbox.
